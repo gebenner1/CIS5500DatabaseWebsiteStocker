@@ -1,0 +1,504 @@
+,Ticker,Average Volume,Competitors,Symbol,Security,Headquarters,Industry,Date added
+0,MMM,3195777,[],MMM,3M,"Saint Paul, Minnesota",Industrial Conglomerates,1957-03-04
+1,AOS,1134110,"['SPXC', 'PFIE']",AOS,A. O. Smith,"Milwaukee, Wisconsin",Building Products,2017-07-26
+2,ABT,4918836,"['BSX', 'BDX', 'DXCM', 'ZBH']",ABT,Abbott,"North Chicago, Illinois",Health Care Equipment,1957-03-04
+3,ABBV,5651585,"['MRK', 'LLY', 'NVO', 'PFE']",ABBV,AbbVie,"North Chicago, Illinois",Pharmaceuticals,2012-12-31
+4,ACN,2160135,['GIB'],ACN,Accenture,"Dublin, Ireland",IT Consulting & Other Services,2011-07-06
+5,ATVI,6473572,"['PANW', 'SNPS', 'UBER', 'CDNS']",ATVI,Activision Blizzard,"Santa Monica, California",Interactive Home Entertainment,2015-08-31
+6,ADM,3063442,['BG'],ADM,ADM,"Chicago, Illinois",Agricultural Products,1957-03-04
+7,ADBE,3074968,"['SAP', 'CRM', 'INTU', 'NOW']",ADBE,Adobe Inc.,"San Jose, California",Application Software,1997-05-05
+8,ADP,1843749,"['PYPL', 'FISV', 'FIS', 'VRSK']",ADP,ADP,"Roseland, New Jersey",Data Processing & Outsourced Services,1981-03-31
+9,AAP,1225339,"['AZO', 'ORLY']",AAP,Advance Auto Parts,"Raleigh, North Carolina",Automotive Retail,2015-07-09
+10,AES,4108703,"['CMS', 'CNP', 'AGR', 'FTS']",AES,AES Corporation,"Arlington, Virginia",Independent Power Producers & Energy Traders,1998-10-02
+11,AFL,2722079,"['PUK', 'TRV', 'AIG', 'MFC']",AFL,Aflac,"Columbus, Georgia",Life & Health Insurance,1999-05-28
+12,A,1342185,"['MTD', 'WAT', 'PKI', 'BIO']",A,Agilent Technologies,"Santa Clara, California",Health Care Equipment,2000-06-05
+13,APD,1131865,"['AFPW', 'LIN']",APD,Air Products and Chemicals,"Allentown, Pennsylvania",Industrial Gases,1985-04-30
+14,AKAM,1624691,"['OKTA', 'PCTY', 'DT', 'DOCU']",AKAM,Akamai,"Cambridge, Massachusetts",Internet Services & Infrastructure,2007-07-12
+15,ALK,1375977,"['PAC', 'CPA', 'AAWW']",ALK,Alaska Air Group,"SeaTac, Washington",Airlines,2016-05-13
+16,ALB,1588066,"['ECL', 'CC', 'LTHM', 'NEU']",ALB,Albemarle Corporation,"Charlotte, North Carolina",Specialty Chemicals,2016-07-01
+17,ARE,864296,"['AVB', 'SBAC', 'EQR', 'WY']",ARE,Alexandria Real Estate Equities,"Pasadena, California",Office REITs,2017-03-20
+18,ALGN,1052597,"['XRAY', 'MLSS']",ALGN,Align Technology,"Tempe, Arizona",Health Care Supplies,2017-06-19
+19,ALLE,657881,"['GFF', 'PGTI', 'JELD']",ALLE,Allegion,"New York City, New York",Building Products,2013-12-02
+20,LNT,1465294,"['ALE', 'NWE']",LNT,Alliant Energy,"Madison, Wisconsin",Electric Utilities,2016-07-01
+21,ALL,1634493,"['MFC', 'AFL', 'ACGL', 'PUK']",ALL,Allstate,"Northfield Township, Illinois",Property & Casualty Insurance,1995-07-13
+22,GOOGL,35853111,"['GOOG', 'META', 'TRI', 'NTES']",GOOGL,Alphabet Inc. (Class A),"Mountain View, California",Interactive Media & Services,2014-04-03
+23,GOOG,29101710,"['GOOGL', 'META', 'TRI', 'NTES']",GOOG,Alphabet Inc. (Class C),"Mountain View, California",Interactive Media & Services,2006-04-03
+24,MO,7688083,"['PM', 'VGR']",MO,Altria,"Richmond, Virginia",Tobacco,1957-03-04
+25,AMZN,75233554,"['PDD', 'JD', 'MELI', 'SHOP']",AMZN,Amazon,"Seattle, Washington",Internet & Direct Marketing Retail,2005-11-18
+26,AMCR,7772785,['PKG'],AMCR,Amcor,"Warmley, Bristol, United Kingdom",Paper Packaging,2019-06-07
+27,AMD,61941539,"['INTC', 'AMAT', 'TXN', 'ADI']",AMD,AMD,"Santa Clara, California",Semiconductors,2017-03-20
+28,AEE,1386646,"['ETR', 'DTE', 'FE', 'PPL']",AEE,Ameren,"St. Louis, Missouri",Multi-Utilities,1991-09-19
+29,AAL,25331670,"['PAC', 'ALK', 'CPA', 'UAL']",AAL,American Airlines Group,"Fort Worth, Texas",Airlines,2015-03-23
+30,AEP,3003516,"['NGG', 'D', 'WEC']",AEP,American Electric Power,"Columbus, Ohio",Electric Utilities,1957-03-04
+31,AXP,3202769,"['SYF', 'WU', 'SAND', 'ECPG']",AXP,American Express,"New York City, New York",Consumer Finance,1976-06-30
+32,AIG,4940025,"['TRV', 'PUK', 'AFL', 'MFC']",AIG,American International Group,"New York City, New York",Property & Casualty Insurance,1980-03-31
+33,AMT,1955840,"['PLD', 'EQIX', 'CCI', 'PSA']",AMT,American Tower,"Boston, Massachusetts",Specialized REITs,2007-11-19
+34,AWK,1028449,"['WTRG', 'SBS']",AWK,American Water Works,"Camden, New Jersey",Water Utilities,2016-03-04
+35,AMP,566383,"['APO', 'MSCI', 'TROW']",AMP,Ameriprise Financial,"Minneapolis, Minnesota",Asset Management & Custody Banks,2005-10-03
+36,ABC,1548417,"['CAH', 'MCK', 'CAKFY']",ABC,AmerisourceBergen,"Conshohocken, Pennsylvania",Health Care Distributors,2001-08-30
+37,AME,971472,"['RRX', 'GNRC', 'FELE', 'OPTT']",AME,Ametek,"Berwyn, Pennsylvania",Electrical Components & Equipment,2013-09-23
+38,AMGN,2656738,"['GILD', 'MRNA', 'BIIB']",AMGN,Amgen,"Thousand Oaks, California",Biotechnology,1992-01-02
+39,APH,2287200,"['NVT', 'MEI', 'RFIL', 'IEHC']",APH,Amphenol,"Wallingford, Connecticut",Electronic Components,2008-09-30
+40,ADI,3468354,"['AMAT', 'INTC', 'LRCX', 'MU']",ADI,Analog Devices,"Wilmington, Massachusetts",Semiconductors,1999-10-12
+41,ANSS,526275,"['VEEV', 'CRWD', 'EA']",ANSS,Ansys,"Canonsburg, Pennsylvania",Application Software,2017-06-19
+42,AON,788806,"['MMC', 'AJG', 'WTW']",AON,Aon,"London, UK",Insurance Brokers,1996-04-23
+43,APA,5965853,['EQT'],APA,APA Corporation,"Houston, Texas",Oil & Gas Exploration & Production,1997-07-28
+44,AAPL,74257127,"['QCOM', 'MSI', 'NOK']",AAPL,Apple Inc.,"Cupertino, California","Technology Hardware, Storage & Peripherals",1982-11-30
+45,AMAT,6781737,"['INTC', 'ADI', 'AMD', 'LRCX']",AMAT,Applied Materials,"Santa Clara, California",Semiconductor Equipment,1995-03-16
+46,APTV,1838913,"['MGA', 'BWA', 'ALV']",APTV,Aptiv,"Dublin, Ireland",Auto Parts & Equipment,2012-12-24
+47,ACGL,2071673,"['HIG', 'ALL', 'MFC', 'RE']",ACGL,Arch Capital Group,"Hamilton, Bermuda",Reinsurance,2022-11-01
+48,ANET,2281290,"['LOGI', 'XRX', 'EXTR', 'CLS']",ANET,Arista Networks,"Santa Clara, California",Communications Equipment,2018-08-28
+49,AJG,830500,"['WTW', 'AON', 'BRO']",AJG,Arthur J. Gallagher & Co.,"Rolling Meadows, Illinois",Insurance Brokers,2016-05-31
+50,AIZ,488815,"['KNSL', 'FAF', 'LNC']",AIZ,Assurant,"New York City, New York",Multi-line Insurance,2007-04-10
+51,T,35321194,"['VZ', 'BCE', 'TLGPY', 'ORAN']",T,AT&T,"Dallas, Texas",Integrated Telecommunication Services,1983-11-30
+52,ATO,857624,"['NI', 'MDU', 'NFG']",ATO,Atmos Energy,"Dallas, Texas",Gas Utilities,2019-02-15
+53,ADSK,1546789,"['TEAM', 'SQ', 'FTNT', 'VMW']",ADSK,Autodesk,"San Francisco, California",Application Software,1989-12-01
+54,AZO,148897,"['ORLY', 'AAP']",AZO,AutoZone,"Memphis, Tennessee",Specialty Stores,1997-01-02
+55,AVB,868847,"['EQR', 'WY', 'ARE', 'EXR']",AVB,AvalonBay Communities,"Arlington, Virginia",Residential REITs,2007-01-10
+56,AVY,516974,[],AVY,Avery Dennison,"Glendale, California",Paper Packaging,1987-12-31
+57,BKR,7037494,"['HAL', 'WFRD', 'LBRT', 'XPRO']",BKR,Baker Hughes,"Houston, Texas",Oil & Gas Equipment & Services,2017-07-07
+58,BALL,1791360,"['CCK', 'SLGN']",BALL,Ball Corporation,"Broomfield, Colorado",Metal & Glass Containers,1984-10-31
+59,BAC,44830279,"['WFC', 'HSBC', 'RY']",BAC,Bank of America,"Charlotte, North Carolina",Diversified Banks,1976-06-30
+60,BBWI,3582336,"['CHS', 'SFIX', 'JILL', 'CATO']",BBWI,"Bath & Body Works, Inc.","Columbus, Ohio",Specialty Stores,1983-09-30
+61,BAX,5820882,"['PODD', 'SAUHF', 'WST']",BAX,Baxter International,"Deerfield, Illinois",Health Care Equipment,1972-09-30
+62,BDX,1307987,"['BSX', 'DXCM', 'ZBH', 'WST']",BDX,Becton Dickinson,"Franklin Lakes, New Jersey",Health Care Equipment,1972-09-30
+63,WRB,1352358,"['MKL', 'CINF', 'L', 'AFG']",WRB,Berkley,"Greenwich, Connecticut",Property & Casualty Insurance,2019-12-05
+64,BRK.B,3757062,"[‘MET’, ‘TRV’]",BRK.B,Berkshire Hathaway,"Omaha, Nebraska",Multi-Sector Holdings,2010-02-16
+65,BBY,2757993,"['CONN', 'HGGGQ']",BBY,Best Buy,"Richfield, Minnesota",Computer & Electronics Retail,1999-06-29
+66,BIO,188216,"['QGEN', 'BRKR', 'PKI', 'WAT']",BIO,Bio-Rad,"Hercules, California",Life Sciences Tools & Services,2020-06-22
+67,TECH,1044884,"['EXAS', 'NBIX', 'HALO']",TECH,Bio-Techne,"Minneapolis, Minnesota",Life Sciences Tools & Services,2021-08-30
+68,BIIB,1113346,"['ILMN', 'MRNA', 'BMRN']",BIIB,Biogen,"Cambridge, Massachusetts",Biotechnology,2003-11-13
+69,BLK,762092,"['BX', 'BN', 'KKR']",BLK,BlackRock,"New York City, New York",Asset Management & Custody Banks,2011-04-04
+70,BK,5274308,"['CM', 'COF', 'MFG', 'LYG']",BK,BNY Mellon,"New York City, New York",Asset Management & Custody Banks,1995-03-31
+71,BA,6568232,"['LMT', 'NOC', 'GD', 'TXT']",BA,Boeing,"Chicago, Illinois",Aerospace & Defense,1957-03-04
+72,BKNG,331501,"['TCOM', 'EXPE', 'TUIFD', 'TRIP']",BKNG,Booking Holdings,"Norwalk, Connecticut",Internet & Direct Marketing Retail,2009-11-06
+73,BWA,1982107,"['ALV', 'MGA', 'GNTX']",BWA,BorgWarner,"Auburn Hills, Michigan",Auto Parts & Equipment,2011-12-19
+74,BXP,1597885,"['LSI', 'NLY', 'CUBE', 'LAMR']",BXP,Boston Properties,"Boston, Massachusetts",Office REITs,2006-04-03
+75,BSX,6745065,"['BDX', 'DXCM', 'ZBH', 'WST']",BSX,Boston Scientific,"Marlborough, Massachusetts",Health Care Equipment,1995-02-24
+76,BMY,8647288,"['SNY', 'NVS', 'AZN', 'REGN']",BMY,Bristol Myers Squibb,"New York City, New York",Pharmaceuticals,1957-03-04
+77,AVGO,2289022,"['TXN', 'AMD', 'INTC', 'AMAT']",AVGO,Broadcom Inc.,"San Jose, California",Semiconductors,2014-05-08
+78,BR,563076,"['FLT', 'ETSY', 'EDNMY']",BR,Broadridge Financial Solutions,"Lake Success, New York",Data Processing & Outsourced Services,2018-06-18
+79,BRO,1123073,"['ERIE', 'WTW']",BRO,Brown & Brown,"Daytona Beach, Florida",Insurance Brokers,2021-09-20
+80,BF.B,1183921,"[‘BFA’, ‘MGPI’, ‘LPRRF’]",BF.B,Brown–Forman,"Louisville, Kentucky",Distillers & Vintners,1982-10-31
+81,BG,1624621,['ADM'],BG,Bunge Limited,"Chesterfield, Missouri",Agricultural Products,2023-03-15
+82,CHRW,1494943,['EXPD'],CHRW,C.H. Robinson,"Eden Prairie, Minnesota",Air Freight & Logistics,2007-03-02
+83,CDNS,1562766,"['SNPS', 'PANW', 'WDAY', 'VMW']",CDNS,Cadence Design Systems,"San Jose, California",Application Software,2017-09-18
+84,CZR,3252735,"['IHG', 'WYNN', 'H', 'MTN']",CZR,Caesars Entertainment,"Reno, Nevada",Casinos & Gaming,2021-03-22
+85,CPT,881939,"['HST', 'KIM', 'ELS']",CPT,Camden Property Trust,"Houston, Texas",Residential REITs,2022-04-04
+86,CPB,2546352,"['CAG', 'MKC', 'SMPL', 'MKCV']",CPB,Campbell Soup Company,"Camden, New Jersey",Packaged Foods & Meats,1957-03-04
+87,COF,3264091,"['CM', 'BK', 'LYG', 'MFG']",COF,Capital One,"Tysons Corner, Virginia",Consumer Finance,1998-07-01
+88,CAH,2812699,"['ABC', 'CAKFY']",CAH,Cardinal Health,"Dublin, Ohio",Health Care Distributors,1997-05-27
+89,KMX,2555139,"['CVNA', 'KAR', 'CRMT']",KMX,CarMax,"Richmond, Virginia",Automotive Retail,2010-06-28
+90,CCL,44142157,"['NCLH', 'RCL', 'CUK']",CCL,Carnival,"Miami, Florida","Hotels, Resorts & Cruise Lines",1998-12-22
+91,CARR,4018941,[],CARR,Carrier Global,"Palm Beach Gardens, Florida",Building Products,2020-04-03
+92,CTLT,2829699,['UTHR'],CTLT,Catalent,"Somerset, New Jersey",Pharmaceuticals,2020-09-21
+93,CAT,3271378,"['CNHI', 'TEX', 'ACA', 'ASTE']",CAT,Caterpillar Inc.,"Irving, Texas",Construction Machinery & Heavy Trucks,1957-03-04
+94,CBOE,740066,['MKTX'],CBOE,Cboe Global Markets,"Chicago, Illinois",Financial Exchanges & Data,2017-03-01
+95,CBRE,1442870,['VICI'],CBRE,CBRE Group,"Dallas, Texas",Real Estate Services,2006-11-10
+96,CDW,714121,"['WIT', 'LDOS', 'JKHY']",CDW,CDW,"Lincolnshire, Illinois",Technology Distributors,2019-09-23
+97,CE,1104613,"['EMN', 'ASH', 'HUN', 'AVNT']",CE,Celanese,"Irving, Texas",Specialty Chemicals,2018-12-24
+98,CNC,3704806,"['MOH', 'HUM']",CNC,Centene Corporation,"St. Louis, Missouri",Managed Health Care,2016-03-30
+99,CNP,3661522,"['CMS', 'AES', 'FTS', 'PPL']",CNP,CenterPoint Energy,"Houston, Texas",Multi-Utilities,1985-07-31
+100,CDAY,1487770,"['CBZ', 'PAYX']",CDAY,Ceridian,"Minneapolis, Minnesota",Application Software,2021-09-20
+101,CF,2732407,"['SQM', 'OCINF', 'SMG', 'UAN']",CF,CF Industries,"Deerfield, Illinois",Fertilizers & Agricultural Chemicals,2008-08-27
+102,CRL,612181,"['MEDP', 'EXEL', 'SYNH']",CRL,Charles River Laboratories,"Wilmington, Massachusetts",Life Sciences Tools & Services,2021-05-14
+103,SCHW,13092858,"['MS', 'GS', 'IBKR', 'RJF']",SCHW,Charles Schwab Corporation,"Westlake, Texas",Investment Banking & Brokerage,1997-06-02
+104,CHTR,1312338,"['WBD', 'SJR', 'LBRDK']",CHTR,Charter Communications,"Stamford, Connecticut",Cable & Satellite,2016-09-08
+105,CVX,8272497,"['BP', 'EOG', 'CNQ', 'OXY']",CVX,Chevron Corporation,"San Ramon, California",Integrated Oil & Gas,1957-03-04
+106,CMG,279208,"['YUM', 'YUMC', 'QSR', 'DRI']",CMG,Chipotle Mexican Grill,"Newport Beach, California",Restaurants,2011-04-28
+107,CB,1779901,"['PGR', 'CINF', 'MKL', 'WRB']",CB,Chubb Limited,"Zurich, Switzerland",Property & Casualty Insurance,2010-07-15
+108,CHD,1397123,['GYSN'],CHD,Church & Dwight,"Ewing, New Jersey",Household Products,2015-12-29
+109,CI,1679392,"['ELV', 'HUM', 'CNC']",CI,Cigna,"Bloomfield, Connecticut",Managed Health Care,1976-06-30
+110,CINF,628563,"['MKL', 'WRB', 'L', 'AFG']",CINF,Cincinnati Financial,"Fairfield, Ohio",Property & Casualty Insurance,1997-12-18
+111,CTAS,358202,"['MED', 'OSW', 'WW', 'XWEL']",CTAS,Cintas,"Mason, Ohio",Diversified Support Services,2001-03-01
+112,CSCO,18527629,"['IBM', 'CDW', 'WIT']",CSCO,Cisco,"San Jose, California",Communications Equipment,1993-12-01
+113,C,18732165,"['ING', 'SLF', 'EQH']",C,Citigroup,"New York City, New York",Diversified Banks,1988-05-31
+114,CFG,4477808,"['WF', 'BSBR', 'RF']",CFG,Citizens Financial Group,"Providence, Rhode Island",Regional Banks,2016-01-29
+115,CLX,1149069,['SYHO'],CLX,Clorox,"Oakland, California",Household Products,1969-03-31
+116,CME,2009998,"['ICE', 'NDAQ', 'CBOE', 'MKTX']",CME,CME Group,"Chicago, Illinois",Financial Exchanges & Data,2006-08-11
+117,CMS,1902673,"['CNP', 'AES', 'FTS', 'AGR']",CMS,CMS Energy,"Jackson, Michigan",Multi-Utilities,1957-03-04
+118,KO,13258859,"['PEP', 'MNST', 'KDP', 'CCEP']",KO,Coca-Cola Company (The),"Atlanta, Georgia",Soft Drinks,1957-03-04
+119,CTSH,4700512,"['VRSN', 'EPAM', 'NICE']",CTSH,Cognizant,"Teaneck, New Jersey",IT Consulting & Other Services,2006-11-17
+120,CL,4009283,"['EL', 'IFF', 'COTY']",CL,Colgate-Palmolive,"New York City, New York",Household Products,1957-03-04
+121,CMCSA,21693670,"['NFLX', 'CHTR', 'WBD', 'SJR']",CMCSA,Comcast,"Philadelphia, Pennsylvania",Cable & Satellite,2002-11-19
+122,CMA,2090388,"['WBS', 'BAP']",CMA,Comerica,"Dallas, Texas",Diversified Banks,1995-12-01
+123,CAG,4022630,"['MKC', 'CPB', 'SMPL', 'MKCV']",CAG,Conagra Brands,"Chicago, Illinois",Packaged Foods & Meats,1983-08-31
+124,COP,6444853,"['MPC', 'VLO', 'PSX', 'IMO']",COP,ConocoPhillips,"Houston, Texas",Oil & Gas Exploration & Production,1957-03-04
+125,ED,1784019,"['PEG', 'XEL', 'PCG', 'EXC']",ED,Consolidated Edison,"New York City, New York",Electric Utilities,1957-03-04
+126,STZ,1292886,"['ABEV', 'TAP']",STZ,Constellation Brands,"Victor, New York",Distillers & Vintners,2005-07-01
+127,CEG,2039402,[],CEG,Constellation Energy,"Baltimore, Maryland",Multi-Utilities,2022-02-02
+128,COO,328781,['STAA'],COO,CooperCompanies,"San Ramon, California",Health Care Supplies,2016-09-23
+129,CPRT,2002449,"['PAG', 'LAD', 'AN']",CPRT,Copart,"Dallas, Texas",Diversified Support Services,2018-07-02
+130,GLW,4140782,['OC'],GLW,Corning Inc.,"Corning, New York",Electronic Components,1995-02-27
+131,CTVA,3267262,"['FMC', 'BIOX', 'AVD']",CTVA,Corteva,"Indianapolis, Indiana",Fertilizers & Agricultural Chemicals,2019-06-03
+132,CSGP,2416413,"['SE', 'SPOT', 'PINS', 'TW']",CSGP,CoStar Group,"Washington, D.C.",Research & Consulting Services,2022-09-19
+133,COST,2124445,"['TGT', 'BJ']",COST,Costco,"Issaquah, Washington",Hypermarkets & Super Centers,1993-10-01
+134,CTRA,10024586,"['MRO', 'EC', 'CQP']",CTRA,Coterra,"Houston, Texas",Oil & Gas Exploration & Production,2008-06-23
+135,CCI,2105164,"['PSA', 'EQIX', 'O']",CCI,Crown Castle,"Houston, Texas",Specialized REITs,2012-03-14
+136,CSX,13613230,"['CP', 'NSC', 'CNI']",CSX,CSX,"Jacksonville, Florida",Railroads,1957-03-04
+137,CMI,954777,"['BC', 'WPRT']",CMI,Cummins,"Columbus, Indiana",Industrial Machinery,1965-03-31
+138,CVS,7765923,"['WBA', 'PETS']",CVS,CVS Health,"Woonsocket, Rhode Island",Health Care Services,1957-03-04
+139,DHI,2881697,"['LEN', 'PHM', 'TOL', 'MTH']",DHI,D.R. Horton,"Arlington, Texas",Homebuilding,2005-06-22
+140,DHR,2497764,"['TMO', 'A', 'MTD', 'WAT']",DHR,Danaher Corporation,"Washington, D.C.",Health Care Equipment,1998-11-18
+141,DRI,1144916,"['QSR', 'DPZ', 'YUMC', 'ARMK']",DRI,Darden Restaurants,"Orlando, Florida",Restaurants,1995-05-31
+142,DVA,702961,['FMS'],DVA,DaVita Inc.,"Denver, Colorado",Health Care Facilities,2008-07-31
+143,DE,1546243,"['AGCO', 'ALG', 'LNN', 'ARTW']",DE,John Deere,"Moline, Illinois",Agricultural & Farm Machinery,1957-03-04
+144,DAL,9423211,"['RYAAY', 'LUV', 'UAL', 'AAL']",DAL,Delta Air Lines,"Atlanta, Georgia",Airlines,2013-09-11
+145,XRAY,2176189,"['MLSS', 'PDEX']",XRAY,Dentsply Sirona,"Charlotte, North Carolina",Health Care Supplies,2008-11-14
+146,DVN,9995628,"['OXY', 'CNQ']",DVN,Devon Energy,"Oklahoma City, Oklahoma",Oil & Gas Exploration & Production,2000-08-30
+147,DXCM,2598720,"['ZBH', 'WST', 'SAUHF', 'BAX']",DXCM,Dexcom,"San Diego, California",Health Care Equipment,2020-05-12
+148,FANG,2623155,"['PBRA', 'CQP', 'EC']",FANG,Diamondback Energy,"Midland, Texas",Oil & Gas Exploration & Production,2018-12-03
+149,DLR,1947802,"['SBAC', 'ARE', 'WELL', 'AVB']",DLR,Digital Realty,"Austin, Texas",Specialized REITs,2016-05-18
+150,DFS,2274419,"['STT', 'MTB', 'FITB', 'FRC']",DFS,Discover Financial,"Riverwoods, Illinois",Consumer Finance,2007-07-02
+151,DISH,5261683,"['WWE', 'LBTYK']",DISH,Dish Network,"Meridian, Colorado",Cable & Satellite,2017-03-13
+152,DIS,14343009,['IGT'],DIS,Disney,"Burbank, California",Movies & Entertainment,1976-06-30
+153,DG,2009495,"['DLTR', 'FIVE', 'OLLI', 'PSMT']",DG,Dollar General,"Goodlettsville, Tennessee",General Merchandise Stores,2012-12-03
+154,DLTR,2253973,"['DG', 'FIVE', 'OLLI', 'PSMT']",DLTR,Dollar Tree,"Chesapeake, Virginia",General Merchandise Stores,2011-12-19
+155,D,5795432,"['NGG', 'AEP', 'WEC']",D,Dominion Energy,"Richmond, Virginia",Electric Utilities,
+156,DPZ,689795,"['ARMK', 'TXRH', 'WING']",DPZ,Domino's,"Ann Arbor, Michigan",Restaurants,2020-05-12
+157,DOV,861954,"['NOV', 'FTI', 'CHX', 'WHD']",DOV,Dover Corporation,"Downers Grove, Illinois",Industrial Machinery,1985-10-31
+158,DOW,5073029,"['DD', 'CE', 'EMN', 'ASH']",DOW,Dow Inc.,"Midland, Michigan",Commodity Chemicals,2019-04-01
+159,DTE,1325141,[],DTE,DTE Energy,"Detroit, Michigan",Multi-Utilities,1957-03-04
+160,DUK,3051672,"['EXC', 'PCG', 'XEL', 'ED']",DUK,Duke Energy,"Charlotte, North Carolina",Electric Utilities,1976-06-30
+161,DD,3013306,"['DOW', 'CE', 'EMN', 'ASH']",DD,DuPont,"Wilmington, Delaware",Specialty Chemicals,2019-04-02
+162,DXC,1616811,"['DBX', 'WNS']",DXC,DXC Technology,"Tysons Corner, Virginia",IT Consulting & Other Services,2017-04-04
+163,EMN,999594,"['CE', 'ASH', 'HUN', 'AVNT']",EMN,Eastman Chemical Company,"Kingsport, Tennessee",Diversified Chemicals,1994-01-01
+164,ETN,1778851,['THR'],ETN,Eaton Corporation,"Dublin, Ireland",Electrical Components & Equipment,1957-03-04
+165,EBAY,5111667,"['CHWY', 'VIPS']",EBAY,eBay,"San Jose, California",Internet & Direct Marketing Retail,2002-07-22
+166,ECL,1259912,"['ALB', 'CC', 'LTHM', 'NEU']",ECL,Ecolab,"Saint Paul, Minnesota",Specialty Chemicals,1989-01-31
+167,EIX,1931498,"['ES', 'WEC', 'FE']",EIX,Edison International,"Rosemead, California",Electric Utilities,1957-03-04
+168,EW,4344092,"['STE', 'ISRG', 'SNN']",EW,Edwards Lifesciences,"Irvine, California",Health Care Equipment,2011-04-01
+169,EA,2257480,"['CRWD', 'ANSS', 'VEEV']",EA,Electronic Arts,"Redwood City, California",Interactive Home Entertainment,2002-07-22
+170,ELV,1132313,"['CI', 'HUM', 'CNC']",ELV,Elevance Health,"Indianapolis, Indiana",Managed Health Care,2002-07-25
+171,LLY,3000949,"['ABBV', 'MRK', 'NVO', 'PFE']",LLY,Eli Lilly and Company,"Indianapolis, Indiana",Pharmaceuticals,1970-12-31
+172,EMR,3582998,"['ROP', 'FTV', 'CGNX', 'ST']",EMR,Emerson Electric,"Ferguson, Missouri",Electrical Components & Equipment,1965-03-31
+173,ENPH,3952022,"['ON', 'MPWR']",ENPH,Enphase,"Fremont, California",Electronic Components,2021-01-07
+174,ETR,1412927,"['AEE', 'DTE', 'FE', 'PPL']",ETR,Entergy,"New Orleans, Louisiana",Electric Utilities,1957-03-04
+175,EOG,3759200,"['CNQ', 'OXY', 'DVN', 'BP']",EOG,EOG Resources,"Houston, Texas",Oil & Gas Exploration & Production,2000-11-02
+176,EPAM,400508,"['VRSN', 'NICE', 'TRU']",EPAM,EPAM Systems,"Newtown, Pennsylvania",IT Consulting & Other Services,2021-12-14
+177,EQT,6627342,['APA'],EQT,EQT,"Pittsburgh, Pennsylvania",Oil & Gas Exploration & Production,2022-10-03
+178,EFX,869249,['MCO'],EFX,Equifax,"Atlanta, Georgia",Research & Consulting Services,1997-06-19
+179,EQIX,417464,"['CCI', 'PSA', 'O']",EQIX,Equinix,"Redwood City, California",Specialized REITs,2015-03-20
+180,EQR,2302381,"['AVB', 'WY', 'EXR', 'ARE']",EQR,Equity Residential,"Chicago, Illinois",Residential REITs,2001-12-03
+181,ESS,566943,"['GLPI', 'UDR', 'IRM', 'PEAK']",ESS,Essex Property Trust,"San Mateo, California",Residential REITs,2014-04-02
+182,EL,1671159,"['CL', 'IFF', 'COTY']",EL,Estée Lauder Companies (The),"New York City, New York",Personal Products,2006-01-05
+183,ETSY,3198193,"['FLT', 'EDNMY', 'BR', 'EDNMF']",ETSY,Etsy,"New York City, New York",Internet & Direct Marketing Retail,2020-09-21
+184,RE,294145,"['AVVIY', 'AIVAF', 'CNA']",RE,Everest Re,"Hamilton, Bermuda",Reinsurance,2017-06-19
+185,EVRG,1917674,"['EBR', 'AGR', 'AES']",EVRG,Evergy,"Kansas City, Missouri",Electric Utilities,2018-06-05
+186,ES,1652645,"['EIX', 'WEC', 'FE']",ES,Eversource,"Hartford, Connecticut",Multi-Utilities,2009
+187,EXC,7378430,"['PCG', 'XEL', 'ED', 'PEG']",EXC,Exelon,"Chicago, Illinois",Multi-Utilities,1957-03-04
+188,EXPE,2615012,"['TCOM', 'TUIFD', 'TRIP']",EXPE,Expedia Group,"Seattle, Washington",Internet & Direct Marketing Retail,2007-10-02
+189,EXPD,1590848,"['ZTO', 'CHRW']",EXPD,Expeditors International,"Seattle, Washington",Air Freight & Logistics,2007-10-10
+190,EXR,1065210,"['WY', 'EQR', 'AVB', 'VTR']",EXR,Extra Space Storage,"Salt Lake City, Utah",Specialized REITs,2016-01-19
+191,XOM,16917654,"['RYDAF', 'TTE', 'EQNR']",XOM,ExxonMobil,"Irving, Texas",Integrated Oil & Gas,1957-03-04
+192,FFIV,502828,['MANH'],FFIV,"F5, Inc.","Seattle, Washington",Communications Equipment,2010-12-20
+193,FDS,228146,[],FDS,FactSet,"Norwalk, Connecticut",Financial Exchanges & Data,2021-12-20
+194,FAST,3276396,"['DSGR', 'ACU']",FAST,Fastenal,"Winona, Minnesota",Building Products,2008-09-15
+195,FRT,537593,['FRTPRC'],FRT,Federal Realty,"Rockville, Maryland",Retail REITs,2016-02-01
+196,FDX,2181876,[],FDX,FedEx,"Memphis, Tennessee",Air Freight & Logistics,1980-12-31
+197,FITB,6605702,"['MTB', 'FRC', 'DFS', 'NTRS']",FITB,Fifth Third Bank,"Cincinnati, Ohio",Regional Banks,1996-03-29
+198,FRC,8353394,"['FITB', 'NTRS', 'MTB', 'SIVB']",FRC,First Republic Bank,"San Francisco, California",Regional Banks,2019-01-02
+199,FSLR,2729778,"['SWKS', 'UMC']",FSLR,First Solar,"Tempe, Arizona",Semiconductors,2022-12-19
+200,FE,3518638,"['DTE', 'ETR', 'AEE', 'PPL']",FE,FirstEnergy,"Akron, Ohio",Electric Utilities,1997-11-28
+201,FIS,6987601,"['VRSK', 'FDS']",FIS,FIS,"Jacksonville, Florida",Data Processing & Outsourced Services,2006-11-10
+202,FISV,3470215,"['PYPL', 'ADP', 'FIS', 'VRSK']",FISV,Fiserv,"Brookfield, Wisconsin",Data Processing & Outsourced Services,2001-04-02
+203,FLT,545487,"['ETSY', 'BR', 'EDNMY', 'EDNMF']",FLT,Fleetcor,"Atlanta, Georgia",Data Processing & Outsourced Services,2018-06-20
+204,FMC,752572,"['BIOX', 'AVD', 'ODC']",FMC,FMC Corporation,"Philadelphia, Pennsylvania",Fertilizers & Agricultural Chemicals,2009-08-19
+205,F,59754086,"['RACE', 'HMC', 'GM', 'STLA']",F,Ford Motor Company,"Dearborn, Michigan",Automobile Manufacturers,1957-03-04
+206,FTNT,5208991,"['VMW', 'SQ', 'WDAY', 'ADSK']",FTNT,Fortinet,"Sunnyvale, California",Systems Software,2018-10-11
+207,FTV,1783329,"['CGNX', 'ST', 'MKSI', 'ESE']",FTV,Fortive,"Everett, Washington",Industrial Machinery,2016-07-01
+208,FOXA,2668465,"['FOX', 'PARA', 'NXST', 'FWONK']",FOXA,Fox Corporation (Class A),"New York City, New York",Movies & Entertainment,2013-07-01
+209,FOX,1230408,"['NXST', 'FOXA', 'TGNA']",FOX,Fox Corporation (Class B),"New York City, New York",Movies & Entertainment,2015-09-18
+210,BEN,3638676,"['CG', 'NMR']",BEN,Franklin Templeton,"San Mateo, California",Asset Management & Custody Banks,1998-04-30
+211,FCX,12938612,[],FCX,Freeport-McMoRan,"Phoenix, Arizona",Copper,
+212,GRMN,950544,['TDY'],GRMN,Garmin,"Schaffhausen, Switzerland",Consumer Electronics,2012-12-12
+213,IT,429669,"['BAH', 'FCN', 'TNET']",IT,Gartner,"Stamford, Connecticut",IT Consulting & Other Services,2017-04-05
+214,GEHC,90433,[],GEHC,GE HealthCare,"Chicago, Illinois",Health Care Technology,2023-01-04
+215,GEN,4206935,"['TWLO', 'DOCU', 'DT']",GEN,Gen Digital,"Tempe, Arizona",Application Software,2003-03-25
+216,GNRC,1655348,"['RRX', 'FELE', 'OPTT', 'SLNH']",GNRC,Generac,"Waukesha, Wisconsin",Electrical Components & Equipment,2021-03-22
+217,GD,1086037,"['NOC', 'TXT', 'BA']",GD,General Dynamics,"Falls Church, Virginia",Aerospace & Defense,1957-03-04
+218,GE,7168033,"['HON', 'HEIA', 'HEI', 'AIR']",GE,General Electric,"Boston, Massachusetts",Industrial Conglomerates,1957-03-04
+219,GIS,3619768,"['MKC', 'CAG', 'CPB', 'MDLZ']",GIS,General Mills,"Golden Valley, Minnesota",Packaged Foods & Meats,1957-03-04
+220,GM,14605495,"['STLA', 'F', 'RACE', 'HMC']",GM,General Motors,"Detroit, Michigan",Automobile Manufacturers,2013-06-06
+221,GPC,991436,"['DORM', 'MPAA']",GPC,Genuine Parts Company,"Atlanta, Georgia",Specialty Stores,1973-12-31
+222,GILD,6942515,"['AMGN', 'MRNA', 'BIIB']",GILD,Gilead Sciences,"Foster City, California",Biotechnology,2004-07-01
+223,GL,563981,['PRS'],GL,Globe Life,"McKinney, Texas",Life & Health Insurance,1989-04-30
+224,GPN,2021894,"['BR', 'FLT']",GPN,Global Payments,"Atlanta, Georgia",Data Processing & Outsourced Services,2016-04-25
+225,GS,2739897,"['SCHW', 'MS', 'IBKR', 'RJF']",GS,Goldman Sachs,"New York City, New York",Investment Banking & Brokerage,2002-07-22
+226,HAL,9072934,"['BKR', 'WFRD', 'LBRT', 'XPRO']",HAL,Halliburton,"Houston, Texas",Oil & Gas Equipment & Services,1957-03-04
+227,HIG,1788500,"['ACGL', 'ALL', 'RE', 'AVVIY']",HIG,Hartford (The),"Hartford, Connecticut",Property & Casualty Insurance,1957-03-04
+228,HAS,1921678,"['FNKO', 'JAKK']",HAS,Hasbro,"Pawtucket, Rhode Island",Leisure Products,1984-09-30
+229,HCA,1245216,"['UHS', 'THC', 'EHC', 'SGRY']",HCA,HCA Healthcare,"Nashville, Tennessee",Health Care Facilities,2015-01-27
+230,PEAK,4076308,"['ELS', 'KIM', 'CPT', 'UDR']",PEAK,Healthpeak,"Long Beach, California",Health Care REITs,2008-03-31
+231,HSIC,968472,"['PDCO', 'OMI']",HSIC,Henry Schein,"Melville, New York",Health Care Distributors,2015-03-17
+232,HSY,1018435,"['BYCBF', 'BRRLY']",HSY,Hershey's,"Hershey, Pennsylvania",Packaged Foods & Meats,1957-03-04
+233,HES,1761036,"['FLNG', 'NEXT']",HES,Hess Corporation,"New York City, New York",Integrated Oil & Gas,1984-05-31
+234,HPE,13683127,"['ZBRA', 'HPQ', 'DELL']",HPE,Hewlett Packard Enterprise,"Houston, Texas","Technology Hardware, Storage & Peripherals",2015-11-02
+235,HLT,1671448,"['LVS', 'MAR', 'MGM', 'HTHT']",HLT,Hilton Worldwide,"Tysons Corner, Virginia","Hotels, Resorts & Cruise Lines",2017-06-19
+236,HOLX,1553406,['VREX'],HOLX,Hologic,"Marlborough, Massachusetts",Health Care Equipment,2016-03-30
+237,HD,4051308,"['LOW', 'BLDR', 'FND']",HD,Home Depot (The),"Atlanta, Georgia",Home Improvement Retail,1988-03-31
+238,HON,3056146,"['GE', 'HEIA', 'HEI', 'AIR']",HON,Honeywell,"Charlotte, North Carolina",Industrial Conglomerates,1957-03-04
+239,HRL,1786464,"['TSN', 'BYND']",HRL,Hormel Foods,"Austin, Minnesota",Packaged Foods & Meats,2009-03-04
+240,HST,7031090,['CPT'],HST,Host Hotels & Resorts,"Bethesda, Maryland",Hotel & Resort REITs,2007-03-20
+241,HWM,2812777,['HWMPR'],HWM,Howmet Aerospace,"Pittsburgh, Pennsylvania",Aerospace & Defense,1957-03-04
+242,HPQ,6977610,"['DELL', 'HPE', 'ZBRA']",HPQ,HP Inc.,"Palo Alto, California","Technology Hardware, Storage & Peripherals",1974-12-31
+243,HUM,1031051,"['CNC', 'CI', 'MOH']",HUM,Humana,"Louisville, Kentucky",Managed Health Care,
+244,HBAN,16953615,"['RF', 'ITUB', 'BSBR']",HBAN,Huntington Bancshares,"Columbus, Ohio; Detroit, Michigan",Regional Banks,1997-08-28
+245,HII,412352,[],HII,Huntington Ingalls Industries,"Newport News, Virginia",Aerospace & Defense,2018-01-03
+246,IBM,4530667,"['CSCO', 'CDW', 'WIT']",IBM,IBM,"Armonk, New York",IT Consulting & Other Services,1957-03-04
+247,IEX,383577,"['XYL', 'GGG', 'ITT']",IEX,IDEX Corporation,"Lake Forest, Illinois",Industrial Machinery,2019-08-09
+248,IDXX,483538,"['GMAB', 'QDEL', 'LNTH']",IDXX,Idexx Laboratories,"Westbrook, Maine",Health Care Equipment,2017-01-05
+249,ITW,1026311,['ELSE'],ITW,Illinois Tool Works,"Glenview, Illinois",Industrial Machinery,1986-02-28
+250,ILMN,1299843,"['BIIB', 'BMRN', 'TECH']",ILMN,Illumina,"San Diego, California",Life Sciences Tools & Services,2015-11-19
+251,INCY,1501875,"['ESAIY', 'VTRS', 'CTLT']",INCY,Incyte,"Wilmington, Delaware",Biotechnology,2017-02-28
+252,IR,2469811,"['EFXT', 'TTI', 'NGS']",IR,Ingersoll Rand,"Davidson, North Carolina",Industrial Machinery,2020-03-03
+253,PODD,683350,"['BAX', 'SAUHF', 'WST']",PODD,Insulet,"Acton, Massachusetts",Health Care Equipment,2023-03-15
+254,INTC,41406263,"['AMAT', 'ADI', 'AMD', 'LRCX']",INTC,Intel,"Santa Clara, California",Semiconductors,1976-12-31
+255,ICE,2474150,"['CME', 'NDAQ', 'CBOE', 'MKTX']",ICE,Intercontinental Exchange,"Atlanta, Georgia",Financial Exchanges & Data,2007-09-26
+256,IFF,1980742,"['COTY', 'ELF']",IFF,International Flavors & Fragrances,"New York City, New York",Specialty Chemicals,1976-03-31
+257,IP,3157651,[],IP,International Paper,"Memphis, Tennessee",Paper Packaging,1957-03-04
+258,IPG,3203131,"['WPP', 'OMC', 'CRTO']",IPG,Interpublic Group of Companies (The),"New York City, New York",Advertising,1992-10-01
+259,INTU,1670616,"['SAP', 'NOW', 'ADBE', 'UBER']",INTU,Intuit,"Mountain View, California",Application Software,2000-12-05
+260,ISRG,1804370,"['SYK', 'EW', 'STE', 'SNN']",ISRG,Intuitive Surgical,"Sunnyvale, California",Health Care Equipment,2008-06-02
+261,IVZ,4954784,"['SEIC', 'MORN']",IVZ,Invesco,"Atlanta, Georgia",Asset Management & Custody Banks,2008-08-21
+262,INVH,3466738,"['MAA', 'VTR', 'SUI']",INVH,Invitation Homes,"Dallas, Texas",Residential REITs,2022-09-19
+263,IQV,909774,"['ICLR', 'CRL', 'MEDP']",IQV,IQVIA,"Durham, North Carolina",Life Sciences Tools & Services,2017-08-29
+264,IRM,1429865,"['ESS', 'GLPI', 'UDR', 'WPC']",IRM,Iron Mountain,"Boston, Massachusetts",Specialized REITs,2009-01-06
+265,JBHT,716073,"['KNX', 'SAIA', 'LSTR', 'SNDR']",JBHT,J.B. Hunt,"Lowell, Arkansas",Trucking,2015-07-01
+266,JKHY,562740,"['GDDY', 'LDOS', 'JNPR', 'OTEX']",JKHY,Jack Henry & Associates,"Monett, Missouri",Data Processing & Outsourced Services,2018-11-13
+267,J,608129,"['ACM', 'KBR', 'TTEK']",J,Jacobs Solutions,"Dallas, Texas",Construction & Engineering,2007-10-26
+268,JNJ,7426918,"['LLY', 'ABBV', 'MRK', 'NVO']",JNJ,Johnson & Johnson,"New Brunswick, New Jersey",Pharmaceuticals,1973-06-30
+269,JCI,3600052,"['CVGI', 'VIRC']",JCI,Johnson Controls,"Cork, Ireland",Building Products,2010-08-27
+270,JPM,11327434,"['BAC', 'WFC', 'HSBC']",JPM,JPMorgan Chase,"New York City, New York",Diversified Banks,1975-06-30
+271,JNPR,3494472,"['OTEX', 'GDDY', 'JKHY', 'LDOS']",JNPR,Juniper Networks,"Sunnyvale, California",Communications Equipment,2006-06-02
+272,K,2122369,['POST'],K,Kellogg's,"Battle Creek, Michigan",Packaged Foods & Meats,1989-09-11
+273,KDP,7211419,"['MNST', 'CCEP', 'FMX']",KDP,Keurig Dr Pepper,"Burlington, Massachusetts",Soft Drinks,2022-06-21
+274,KEY,14740728,"['SHG', 'CS']",KEY,KeyCorp,"Cleveland, Ohio",Regional Banks,1994-03-01
+275,KEYS,1090497,"['TER', 'ITRI', 'COHU', 'AEHR']",KEYS,Keysight,"Santa Rosa, California",Electronic Equipment & Instruments,2018-11-06
+276,KMB,1576450,[],KMB,Kimberly-Clark,"Irving, Texas",Household Products,1957-03-04
+277,KIM,4339329,"['ELS', 'PEAK', 'CPT', 'HST']",KIM,Kimco Realty,"New Hyde Park, New York",Retail REITs,2006-04-04
+278,KMI,13639082,"['ET', 'WMB', 'OKE', 'EPD']",KMI,Kinder Morgan,"Houston, Texas",Oil & Gas Storage & Transportation,2012-05-25
+279,KLAC,1279873,"['SENS', 'POCI']",KLAC,KLA Corporation,"Milpitas, California",Semiconductor Equipment,1997-09-30
+280,KHC,6553018,"['NOMD', 'CUSI']",KHC,Kraft Heinz,"Chicago, Illinois; Pittsburgh, Pennsylvania",Packaged Foods & Meats,2015-07-06
+281,KR,5247704,['TSCDF'],KR,Kroger,"Cincinnati, Ohio",Food Retail,1957-03-04
+282,LHX,1281941,"['TDY', 'GRMN']",LHX,L3Harris,"Melbourne, Florida",Aerospace & Defense,2008-09-22
+283,LH,682103,"['DGX', 'NTRA', 'GH']",LH,LabCorp,"Burlington, North Carolina",Health Care Services,2004-11-01
+284,LRCX,1382491,"['MU', 'NXPI', 'MCHP']",LRCX,Lam Research,"Fremont, California",Semiconductor Equipment,2012-06-29
+285,LW,1472744,['BGS'],LW,Lamb Weston,"Eagle, Idaho",Packaged Foods & Meats,2018-12-03
+286,LVS,5295093,"['HLT', 'MAR', 'MGM', 'HTHT']",LVS,Las Vegas Sands,"Las Vegas, Nevada",Casinos & Gaming,2019-10-03
+287,LDOS,874373,"['JKHY', 'GDDY', 'JNPR', 'OTEX']",LDOS,Leidos,"Reston, Virginia",Diversified Support Services,2019-08-09
+288,LEN,2231123,"['DHI', 'PHM', 'TOL', 'MTH']",LEN,Lennar,"Miami, Florida",Homebuilding,2005-10-04
+289,LNC,3359535,"['AXS', 'FAF']",LNC,Lincoln Financial,"Radnor, Pennsylvania",Multi-line Insurance,1976-06-30
+290,LIN,2267647,"['APD', 'AFPW']",LIN,Linde plc,"Guildford, United Kingdom",Industrial Gases,1992-07-01
+291,LYV,2411688,[],LYV,Live Nation Entertainment,"Beverly Hills, California",Movies & Entertainment,2019-12-23
+292,LKQ,1547161,[],LKQ,LKQ Corporation,"Chicago, Illinois",Distributors,2016-05-23
+293,LMT,1379282,"['BA', 'NOC', 'GD', 'TXT']",LMT,Lockheed Martin,"Bethesda, Maryland",Aerospace & Defense,1957-03-04
+294,L,826962,"['AFG', 'WRB', 'MKL', 'CINF']",L,Loews Corporation,"New York City, New York",Multi-line Insurance,1995-05-31
+295,LOW,3184926,"['BLDR', 'FND', 'HD']",LOW,Lowe's,"Mooresville, North Carolina",Home Improvement Retail,1984-02-29
+296,LUMN,29221181,['TEO'],LUMN,Lumen Technologies,"Monroe, Louisiana",Alternative Carriers,1999-03-25
+297,LYB,1933476,"['AVTR', 'WLK']",LYB,LyondellBasell,"Rotterdam, Netherlands",Specialty Chemicals,2012-09-05
+298,MTB,1537525,"['FITB', 'DFS', 'FRC', 'STT']",MTB,M&T Bank,"Buffalo, New York",Regional Banks,2004-02-23
+299,MRO,10686860,['CTRA'],MRO,Marathon Oil,"Houston, Texas",Oil & Gas Exploration & Production,1957-03-04
+300,MPC,3851970,"['VLO', 'PSX', 'IMO', 'IEP']",MPC,Marathon Petroleum,"Findlay, Ohio",Oil & Gas Refining & Marketing,2011-07-01
+301,MKTX,347149,['CBOE'],MKTX,MarketAxess,"New York City, New York",Financial Exchanges & Data,2019-07-01
+302,MAR,1879621,"['LVS', 'HLT', 'MGM', 'HTHT']",MAR,Marriott International,"Bethesda, Maryland","Hotels, Resorts & Cruise Lines",1998-05-29
+303,MMC,1615888,"['AON', 'AJG', 'WTW']",MMC,Marsh McLennan,"New York City, New York",Insurance Brokers,1987-08-31
+304,MLM,363986,[],MLM,Martin Marietta Materials,"Raleigh, North Carolina",Construction Materials,2014-07-02
+305,MAS,1805821,[],MAS,Masco,"Livonia, Michigan",Building Products,1981-06-30
+306,MA,2665004,"['CACC', 'OMF', 'NNI']",MA,Mastercard,"Harrison, New York",Data Processing & Outsourced Services,2008-07-18
+307,MTCH,4324094,"['TME', 'BILI', 'FUTU']",MTCH,Match Group,"Dallas, Texas",Interactive Media & Services,2021-09-20
+308,MKC,1269291,"['CAG', 'CPB', 'SMPL', 'MKCV']",MKC,McCormick & Company,"Hunt Valley, Maryland",Packaged Foods & Meats,2003-03-20
+309,MCD,2828644,"['SBUX', 'CMG', 'YUM', 'YUMC']",MCD,McDonald's,"Chicago, Illinois",Restaurants,1970-06-30
+310,MCK,1050162,"['ABC', 'CAH', 'CAKFY']",MCK,McKesson,"Irving, Texas",Health Care Distributors,1999-01-13
+311,MDT,7135627,"['RMD', 'MASI', 'NVCR']",MDT,Medtronic,"Dublin, Ireland",Health Care Equipment,1986-10-31
+312,MRK,8922659,"['ABBV', 'NVO', 'LLY', 'PFE']",MRK,Merck & Co.,"Kenilworth, New Jersey",Pharmaceuticals,1957-03-04
+313,META,35447464,"['GOOG', 'GOOGL', 'TRI', 'NTES']",META,Meta Platforms,"Menlo Park, California",Interactive Media & Services,2013-12-23
+314,MET,4272381,"['AIG', 'TRV', 'PUK', 'AFL']",MET,MetLife,"New York City, New York",Life & Health Insurance,2000-12-11
+315,MTD,97703,"['A', 'WAT', 'PKI', 'BIO']",MTD,Mettler Toledo,"Columbus, Ohio",Life Sciences Tools & Services,2016-09-06
+316,MGM,4397526,"['HTHT', 'H', 'WYNN', 'IHG']",MGM,MGM Resorts,"Paradise, Nevada",Casinos & Gaming,2017-07-26
+317,MCHP,4816823,"['STM', 'NXPI', 'MRVL']",MCHP,Microchip Technology,"Chandler, Arizona",Semiconductors,2007-09-07
+318,MU,14705546,"['LRCX', 'NXPI', 'MCHP']",MU,Micron Technology,"Boise, Idaho",Semiconductors,1994-09-27
+319,MSFT,30574002,"['INFY', 'CTSH', 'VRSN']",MSFT,Microsoft,"Redmond, Washington",Systems Software,1994-06-01
+320,MAA,688525,"['INVH', 'VTR', 'SUI']",MAA,Mid-America Apartment Communities,"Memphis, Tennessee",Residential REITs,2016-12-02
+321,MRNA,4624878,"['BIIB', 'ILMN', 'BMRN']",MRNA,Moderna,"Cambridge, Massachusetts",Biotechnology,2021-07-21
+322,MHK,576207,"['TILE', 'DXYN']",MHK,Mohawk Industries,"Calhoun, Georgia",Home Furnishings,2013-12-23
+323,MOH,529567,['GNOW'],MOH,Molina Healthcare,"Long Beach, California",Managed Health Care,2022-03-02
+324,TAP,1438066,['SAM'],TAP,Molson Coors Beverage Company,"Chicago, Illinois",Brewers,1976-06-30
+325,MDLZ,5759866,"['GIS', 'MKC', 'CAG', 'CPB']",MDLZ,Mondelez International,"Chicago, Illinois",Packaged Foods & Meats,2012-10-02
+326,MPWR,557283,"['UMC', 'FSLR']",MPWR,Monolithic Power Systems,"Kirkland, Washington",Semiconductors,2021-02-12
+327,MNST,2084508,"['KDP', 'CCEP', 'FMX']",MNST,Monster Beverage,"Corona, California",Soft Drinks,2012-06-28
+328,MCO,819371,['EFX'],MCO,Moody's Corporation,"New York City, New York",Financial Exchanges & Data,1998-07-01
+329,MS,7272806,"['SCHW', 'GS', 'IBKR', 'RJF']",MS,Morgan Stanley,"New York City, New York",Investment Banking & Brokerage,1993-07-29
+330,MOS,4164760,['ICL'],MOS,Mosaic Company (The),"Tampa, Florida",Fertilizers & Agricultural Chemicals,2011-09-26
+331,MSI,685468,"['NOK', 'ERIC', 'UI']",MSI,Motorola Solutions,"Chicago, Illinois",Communications Equipment,1957-03-04
+332,MSCI,428122,"['APO', 'AMP', 'KKR']",MSCI,MSCI,"New York City, New York",Financial Exchanges & Data,2018-04-04
+333,NDAQ,2260159,"['CBOE', 'MKTX']",NDAQ,"Nasdaq, Inc.","New York City, New York",Financial Exchanges & Data,2008-10-22
+334,NTAP,1774476,"['STX', 'WDC', 'PSTG', 'QMCO']",NTAP,NetApp,"San Jose, California","Technology Hardware, Storage & Peripherals",1999-06-25
+335,NFLX,8403061,"['CMCSA', 'CHTR', 'WBD', 'SJR']",NFLX,Netflix,"Los Gatos, California",Movies & Entertainment,2010-12-20
+336,NWL,4621248,"['HI', 'BRC', 'NL', 'AGS']",NWL,Newell Brands,"Atlanta, Georgia",Housewares & Specialties,1989-04-30
+337,NEM,7395608,"['GOLD', 'AEM']",NEM,Newmont,"Denver, Colorado",Gold,1969-06-30
+338,NWSA,2755573,"['NYT', 'NWS']",NWSA,News Corp (Class A),"New York City, New York",Publishing,2013-08-01
+339,NWS,963729,['GCI'],NWS,News Corp (Class B),"New York City, New York",Publishing,2015-09-18
+340,NEE,8092853,"['SO', 'D', 'NGG', 'AEP']",NEE,NextEra Energy,"Juno Beach, Florida",Multi-Utilities,1976-06-30
+341,NKE,6998330,"['DECK', 'CROX']",NKE,"Nike, Inc.","Washington County, Oregon","Apparel, Accessories & Luxury Goods",1988-11-30
+342,NI,4164641,"['MDU', 'ATO', 'NFG']",NI,NiSource,"Merrillville, Indiana",Multi-Utilities,2000-11-02
+343,NDSN,268793,"['GHM', 'KULR', 'TAYD']",NDSN,Nordson Corporation,"Westlake, Ohio",Industrial Machinery,2022-02-15
+344,NSC,1444632,"['CSX', 'CP', 'CNI']",NSC,Norfolk Southern Railway,"Atlanta, Georgia",Railroads,1957-03-04
+345,NTRS,1047664,"['FRC', 'SIVB', 'FITB', 'MTB']",NTRS,Northern Trust,"Chicago, Illinois",Asset Management & Custody Banks,1998-01-30
+346,NOC,1018169,"['GD', 'BA', 'LMT', 'TXT']",NOC,Northrop Grumman,"West Falls Church, Virginia",Aerospace & Defense,1957-03-04
+347,NCLH,14576070,"['CUK', 'CCL']",NCLH,Norwegian Cruise Line Holdings,"Miami, Florida","Hotels, Resorts & Cruise Lines",2017-10-13
+348,NRG,4190111,"['BEP', 'OGE', 'PNW']",NRG,NRG Energy,"Houston, Texas",Independent Power Producers & Energy Traders,2010-01-29
+349,NUE,1860754,['ZEUS'],NUE,Nucor,"Charlotte, North Carolina",Steel,1985-04-30
+350,NVDA,48335233,"['TSM', 'AVGO', 'TXN', 'AMD']",NVDA,Nvidia,"Santa Clara, California",Semiconductors,2001-11-30
+351,NVR,20725,"['MDC', 'FTDR', 'MHO', 'GRBK']",NVR,"NVR, Inc.","Reston, Virginia",Homebuilding,2019-09-26
+352,NXPI,2055434,"['MCHP', 'STM', 'MRVL']",NXPI,NXP Semiconductors,"Eindhoven, Netherlands",Semiconductors,2021-03-22
+353,ORLY,463552,"['AZO', 'AAP']",ORLY,O'Reilly Auto Parts,"Springfield, Missouri",Specialty Stores,2009-03-27
+354,OXY,13535830,"['CNQ', 'EOG', 'DVN']",OXY,Occidental Petroleum,"Houston, Texas",Oil & Gas Exploration & Production,1957-03-04
+355,ODFL,815588,"['JBHT', 'KNX', 'SAIA', 'LSTR']",ODFL,Old Dominion,"Thomasville, North Carolina",Trucking,2019-12-09
+356,OMC,1635154,"['IPG', 'WPP', 'CRTO']",OMC,Omnicom Group,"New York City, New York",Advertising,1997-12-31
+357,ON,6649712,"['ENPH', 'MRVL', 'STM']",ON,ON Semiconductor,"Phoenix, Arizona",Semiconductors,2022-06-21
+358,OKE,2466946,"['WMB', 'KMI', 'ET', 'TRGP']",OKE,ONEOK,"Tulsa, Oklahoma",Oil & Gas Storage & Transportation,2010-03-15
+359,ORCL,7257862,"['CRM', 'ADBE', 'SAP', 'INTU']",ORCL,Oracle Corporation,"Austin, Texas",Application Software,1989-08-31
+360,OGN,2142443,[],OGN,Organon & Co.,"Jersey City, New Jersey",Pharmaceuticals,2021-06-03
+361,OTIS,1942555,[],OTIS,Otis Worldwide,"Farmington, Connecticut",Industrial Machinery,2020-04-03
+362,PCAR,3294008,"['HMC', 'RACE', 'F']",PCAR,Paccar,"Bellevue, Washington",Construction Machinery & Heavy Trucks,1980-12-31
+363,PKG,681883,['AMCR'],PKG,Packaging Corporation of America,"Lake Forest, Illinois",Paper Packaging,2017-07-26
+364,PARA,12229002,"['FWONK', 'FOXA', 'FOX', 'NXST']",PARA,Paramount Global,"New York City, New York",Movies & Entertainment,1994-09-30
+365,PH,884639,"['WIRE', 'B', 'SGBX', 'SEII']",PH,Parker Hannifin,"Cleveland, Ohio",Industrial Machinery,1985-11-30
+366,PAYX,1621519,"['CDAY', 'CBZ']",PAYX,Paychex,"Penfield, New York",Data Processing & Outsourced Services,1998-10-01
+367,PAYC,482845,"['FICO', 'SPLK', 'TTWO']",PAYC,Paycom,"Oklahoma City, Oklahoma",Application Software,2020-01-28
+368,PYPL,14403447,"['ADP', 'FISV', 'FIS', 'VRSK']",PYPL,PayPal,"San Jose, California",Data Processing & Outsourced Services,2015-07-20
+369,PNR,1518992,"['WTS', 'MWA', 'CIR']",PNR,Pentair,"Worsley, United Kingdom",Industrial Machinery,2012-10-01
+370,PEP,4771755,"['KO', 'MNST', 'KDP', 'CCEP']",PEP,PepsiCo,"Purchase, New York",Soft Drinks,1957-03-04
+371,PKI,864487,"['WAT', 'BIO', 'QGEN', 'BRKR']",PKI,PerkinElmer,"Waltham, Massachusetts",Health Care Equipment,1985-05-31
+372,PFE,21828094,"['NVO', 'AZN', 'MRK', 'ABBV']",PFE,Pfizer,"New York City, New York",Pharmaceuticals,1957-03-04
+373,PCG,14786122,"['EXC', 'XEL', 'ED', 'PEG']",PCG,PG&E Corporation,"San Francisco, California",Multi-Utilities,2022-10-03
+374,PM,4668780,"['MO', 'VGR']",PM,Philip Morris International,"New York City, New York",Tobacco,2008-03-31
+375,PSX,3349154,"['VLO', 'MPC', 'IMO', 'IEP']",PSX,Phillips 66,"Houston, Texas",Oil & Gas Refining & Marketing,2012-05-01
+376,PNW,946861,"['KEP', 'VST', 'NRG']",PNW,Pinnacle West,"Phoenix, Arizona",Multi-Utilities,1999-10-04
+377,PXD,2408829,"['WOPEF', 'WDS', 'SU', 'E']",PXD,Pioneer Natural Resources,"Irving, Texas",Oil & Gas Exploration & Production,2008-09-24
+378,PNC,2726877,"['TFC', 'SAN', 'SMFG', 'BNS']",PNC,PNC Financial Services,"Pittsburgh, Pennsylvania",Regional Banks,1988-04-30
+379,POOL,448727,[],POOL,Pool Corporation,"Covington, Louisiana",Distributors,2020-10-07
+380,PPG,1317408,"['RPM', 'AXTA', 'SHW']",PPG,PPG Industries,"Pittsburgh, Pennsylvania",Specialty Chemicals,1957-03-04
+381,PPL,5128596,"['FTS', 'AEE', 'ETR', 'CNP']",PPL,PPL Corporation,"Allentown, Pennsylvania",Electric Utilities,2001-10-01
+382,PFG,1630442,"['EHTH', 'MHNC', 'TILCF']",PFG,Principal Financial Group,"Des Moines, Iowa",Life & Health Insurance,2002-07-22
+383,PG,6637910,['CHD'],PG,Procter & Gamble,"Cincinnati, Ohio",Personal Products,1957-03-04
+384,PGR,2351815,"['CB', 'CINF', 'MKL', 'WRB']",PGR,Progressive Corporation,"Mayfield Village, Ohio",Property & Casualty Insurance,1997-08-04
+385,PLD,3114707,"['AMT', 'EQIX', 'CCI', 'PSA']",PLD,Prologis,"San Francisco, California",Industrial REITs,2003-07-17
+386,PRU,1857482,['GL'],PRU,Prudential Financial,"Newark, New Jersey",Life & Health Insurance,2002-07-22
+387,PEG,2710156,"['ED', 'XEL', 'PCG', 'EXC']",PEG,Public Service Enterprise Group,"Newark, New Jersey",Electric Utilities,1957-03-04
+388,PTC,739503,"['SSNC', 'MDB', 'AZPN']",PTC,PTC,"Boston, Massachusetts",Application Software,2021-04-20
+389,PSA,976717,"['CCI', 'O', 'EQIX']",PSA,Public Storage,"Glendale, California",Specialized REITs,2005-08-19
+390,PHM,2409599,"['TOL', 'MTH', 'TMHC', 'KBH']",PHM,PulteGroup,"Atlanta, Georgia",Homebuilding,1984-04-30
+391,QRVO,1319152,"['WOLF', 'LSCC']",QRVO,Qorvo,"Greensboro, North Carolina",Semiconductors,2015-06-11
+392,PWR,927861,"['EME', 'AMRC', 'IESC', 'ISUN']",PWR,Quanta Services,"Houston, Texas",Construction & Engineering,2009-07-01
+393,QCOM,7921752,"['MSI', 'NOK', 'ERIC']",QCOM,Qualcomm,"San Diego, California",Semiconductors,1999-07-22
+394,DGX,1126844,"['LH', 'NTRA', 'GH']",DGX,Quest Diagnostics,"Secaucus, New Jersey",Health Care Services,2002-12-12
+395,RL,954237,['IFAN'],RL,Ralph Lauren Corporation,"New York City, New York","Apparel, Accessories & Luxury Goods",2007-02-02
+396,RJF,1392690,"['LPLA', 'IBKR']",RJF,Raymond James,"St. Petersburg, Florida",Investment Banking & Brokerage,2017-03-20
+397,RTX,4520401,"['NWL', 'HI', 'BRC', 'NL']",RTX,Raytheon Technologies,"Waltham, Massachusetts",Aerospace & Defense,1957-03-04
+398,O,3763802,"['SPG', 'WELL', 'PSA']",O,Realty Income,"San Diego, California",Retail REITs,2015-04-07
+399,REG,921809,"['LAMR', 'CUBE', 'AMH', 'BXP']",REG,Regency Centers,"Jacksonville, Florida",Retail REITs,2017-03-02
+400,REGN,631665,"['ZTS', 'VRTX', 'GLAXF']",REGN,Regeneron,"Tarrytown, New York",Biotechnology,2013-05-01
+401,RF,8532803,"['HBAN', 'BSBR', 'WF']",RF,Regions Financial Corporation,"Birmingham, Alabama",Regional Banks,1998-08-28
+402,RSG,1445430,"['WM', 'CLH', 'SRCL', 'CWST']",RSG,Republic Services,"Phoenix, Arizona",Environmental & Facilities Services,2008-12-05
+403,RMD,592339,"['MASI', 'NVCR', 'IRTC']",RMD,ResMed,"San Diego, California",Health Care Equipment,2017-07-26
+404,RHI,894459,"['NSP', 'KFRC', 'TBI']",RHI,Robert Half,"Menlo Park, California",Human Resource & Employment Services,2000-12-05
+405,ROK,695023,['HUBB'],ROK,Rockwell Automation,"Milwaukee, Wisconsin",Electrical Components & Equipment,
+406,ROL,1504534,['RTO'],ROL,"Rollins, Inc.","Atlanta, Georgia",Environmental & Facilities Services,2018-10-01
+407,ROP,479655,"['EMR', 'FTV', 'CGNX', 'ST']",ROP,Roper Technologies,"Sarasota, Florida",Electronic Equipment & Instruments,2009-12-23
+408,ROST,2531731,"['BURL', 'GPS', 'JWN', 'AEO']",ROST,Ross Stores,"Dublin, California",Apparel Retail,2009-12-21
+409,RCL,3926487,"['CCL', 'NCLH', 'CUK']",RCL,Royal Caribbean Group,"Miami, Florida","Hotels, Resorts & Cruise Lines",2014-12-05
+410,SPGI,1569621,"['MCO', 'EFX']",SPGI,S&P Global,"New York City, New York",Financial Exchanges & Data,1957-03-04
+411,CRM,9853111,"['ADBE', 'SAP', 'INTU', 'ORCL']",CRM,Salesforce,"San Francisco, California",Application Software,2008-09-15
+412,SBAC,769050,"['ARE', 'DLR', 'AVB', 'EQR']",SBAC,SBA Communications,"Boca Raton, Florida",Specialized REITs,2017-09-01
+413,SLB,10350621,"['HAL', 'BKR', 'WFRD', 'LBRT']",SLB,Schlumberger,"Curaçao, Kingdom of the Netherlands",Oil & Gas Equipment & Services,1957-03-04
+414,STX,2459025,"['NTAP', 'WDC', 'PSTG', 'QMCO']",STX,Seagate Technology,"Dublin, Ireland","Technology Hardware, Storage & Peripherals",2012-07-02
+415,SEE,1118591,"['GPK', 'NTIC']",SEE,Sealed Air,"Charlotte, North Carolina",Paper Packaging,1957-03-04
+416,SRE,1229937,[],SRE,Sempra Energy,"San Diego, California",Multi-Utilities,2001?
+417,NOW,1550957,"['UBER', 'INTU', 'ATVI', 'PANW']",NOW,ServiceNow,"Santa Clara, California",Systems Software,2019-11-21
+418,SHW,1529264,"['PPG', 'RPM', 'AXTA']",SHW,Sherwin-Williams,"Cleveland, Ohio",Specialty Chemicals,1964-06-30
+419,SPG,1622237,"['O', 'WELL', 'DLR']",SPG,Simon Property Group,"Indianapolis, Indiana",Retail REITs,2002-06-26
+420,SWKS,2058697,"['FSLR', 'UMC', 'ASX']",SWKS,Skyworks Solutions,"Irvine, California",Semiconductors,2015-03-12
+421,SJM,892519,"['SENEA', 'SENEB']",SJM,J.M. Smucker Company (The),"Orrville, Ohio",Packaged Foods & Meats,2008-11-06
+422,SNA,287711,['MLHC'],SNA,Snap-on,"Kenosha, Wisconsin",Industrial Machinery,1982-09-30
+423,SEDG,1103577,"['ZWS', 'AIMC', 'EVTV']",SEDG,SolarEdge,"Herzliya, Israel",Semiconductor Equipment,2021-12-20
+424,SO,4444362,"['D', 'NGG', 'AEP', 'WEC']",SO,Southern Company,"Atlanta, Georgia",Electric Utilities,1957-03-04
+425,LUV,6592735,"['RYAAY', 'UAL', 'DAL', 'AAL']",LUV,Southwest Airlines,"Dallas, Texas",Airlines,1994-07-01
+426,SWK,1838705,['PFIN'],SWK,Stanley Black & Decker,"New Britain, Connecticut",Industrial Machinery,1982-09-30
+427,SBUX,6553277,"['MCD', 'CMG', 'YUM', 'YUMC']",SBUX,Starbucks,"Seattle, Washington",Restaurants,2000-06-07
+428,STT,2925619,"['DFS', 'MTB', 'FITB', 'FRC']",STT,State Street Corporation,"Boston, Massachusetts",Asset Management & Custody Banks,2003-03-14
+429,STLD,2211713,"['MT', 'PKX']",STLD,Steel Dynamics,"Fort Wayne, Indiana",Steel,2022-12-22
+430,STE,574910,"['SNN', 'INSP', 'GMED']",STE,Steris,"Dublin, Ireland",Health Care Equipment,2019-12-23
+431,SYK,1350892,"['ISRG', 'EW', 'STE', 'SNN']",SYK,Stryker Corporation,"Kalamazoo, Michigan",Health Care Equipment,2000-12-12
+432,SYF,5433352,"['WU', 'SAND', 'ECPG', 'PMTS']",SYF,Synchrony Financial,"Stamford, Connecticut",Consumer Finance,2015-11-18
+433,SNPS,828950,"['PANW', 'CDNS', 'ATVI', 'WDAY']",SNPS,Synopsys,"Mountain View, California",Application Software,2017-03-16
+434,SYY,2297213,"['PFGC', 'USFD', 'UNFI']",SYY,Sysco,"Houston, Texas",Food Distributors,1986-12-31
+435,TMUS,5246820,[],TMUS,T-Mobile US,"Bellevue, Washington",Wireless Telecommunication Services,2019-07-15
+436,TROW,1847028,"['ARES', 'BEN']",TROW,T. Rowe Price,"Baltimore, Maryland",Asset Management & Custody Banks,
+437,TTWO,2193961,"['ZS', 'HUBS', 'PAYC']",TTWO,Take-Two Interactive,"New York City, New York",Interactive Home Entertainment,2018-03-19
+438,TPR,3506034,"['CPRI', 'VRA']",TPR,"Tapestry, Inc.","New York City, New York","Apparel, Accessories & Luxury Goods",2004-09-01
+439,TRGP,1535041,"['WES', 'DCP', 'ENLC', 'AM']",TRGP,Targa Resources,"Houston, Texas",Oil & Gas Storage & Transportation,2022-10-12
+440,TGT,4195398,['BJ'],TGT,Target Corporation,"Minneapolis, Minnesota",General Merchandise Stores,1976-12-31
+441,TEL,1783327,"['PHG', 'FLEX', 'LFUS', 'LPL']",TEL,TE Connectivity,"Schaffhausen, Switzerland",Electronic Manufacturing Services,2011-10-17
+442,TDY,193736,['GRMN'],TDY,Teledyne Technologies,"Thousand Oaks, California",Electronic Equipment & Instruments,2020-06-22
+443,TFX,366769,"['PEN', 'SWAV']",TFX,Teleflex,"Wayne, Pennsylvania",Health Care Equipment,2019-01-18
+444,TER,1608583,"['KEYS', 'ITRI', 'COHU', 'AEHR']",TER,Teradyne,"North Reading, Massachusetts",Semiconductor Equipment,2020-09-21
+445,TSLA,155914942,"['TM', 'STLA', 'GM']",TSLA,"Tesla, Inc.","Austin, Texas",Automobile Manufacturers,2020-12-21
+446,TXN,5238948,"['AMD', 'INTC', 'AMAT', 'ADI']",TXN,Texas Instruments,"Dallas, Texas",Semiconductors,
+447,TXT,1383688,"['BDRBF', 'ERJ', 'AVAV']",TXT,Textron,"Providence, Rhode Island",Aerospace & Defense,1978-12-31
+448,TMO,1449184,"['DHR', 'A', 'MTD', 'WAT']",TMO,Thermo Fisher Scientific,"Waltham, Massachusetts",Life Sciences Tools & Services,2004-08-03
+449,TJX,5626406,"['ROST', 'BURL', 'GPS', 'JWN']",TJX,TJX Companies,"Framingham, Massachusetts",Apparel Retail,1985-09-30
+450,TSCO,1058141,[],TSCO,Tractor Supply,"Brentwood, Tennessee",Specialty Stores,2014-01-24
+451,TT,1308726,"['LII', 'AAON']",TT,Trane Technologies,"Dublin, Ireland",Building Products,2010-11-17
+452,TDG,325375,"['CW', 'WWD']",TDG,TransDigm Group,"Cleveland, Ohio",Aerospace & Defense,2016-06-03
+453,TRV,1369194,"['PUK', 'AFL', 'AIG', 'MFC']",TRV,Travelers Companies (The),"New York City, New York",Property & Casualty Insurance,2002-08-21
+454,TRMB,1315006,"['ONTO', 'KAI']",TRMB,Trimble Inc.,"Westminster, Colorado",Electronic Equipment & Instruments,2021-01-21
+455,TFC,8944624,"['PNC', 'SAN', 'SMFG', 'BNS']",TFC,Truist,"Charlotte, North Carolina",Regional Banks,1997-12-04
+456,TYL,306072,['AZPN'],TYL,Tyler Technologies,"Plano, Texas",Application Software,2020-06-22
+457,TSN,3236913,"['HRL', 'BYND']",TSN,Tyson Foods,"Springdale, Arkansas",Packaged Foods & Meats,2005-08-10
+458,USB,9993947,"['IBN', 'UBS', 'SAN', 'PNC']",USB,U.S. Bank,"Minneapolis, Minnesota",Diversified Banks,
+459,UDR,2448931,"['GLPI', 'ESS', 'PEAK', 'IRM']",UDR,"UDR, Inc.","Highlands Ranch, Colorado",Residential REITs,2016-03-07
+460,ULTA,614835,['IAA'],ULTA,Ulta Beauty,"Bolingbrook, Illinois",Specialty Stores,2016-04-18
+461,UNP,3297825,"['CNI', 'CP', 'CSX', 'NSC']",UNP,Union Pacific Corporation,"Omaha, Nebraska",Railroads,1957-03-04
+462,UAL,8016826,"['LUV', 'RYAAY', 'AAL', 'DAL']",UAL,United Airlines Holdings,"Chicago, Illinois",Airlines,2015-09-03
+463,UPS,3001817,[],UPS,United Parcel Service,"Sandy Springs, Georgia",Air Freight & Logistics,2002-07-22
+464,URI,738302,"['CTOS', 'TITN']",URI,United Rentals,"Stamford, Connecticut",Trading Companies & Distributors,2014-09-20
+465,UNH,3449959,"['ELV', 'CI', 'HUM', 'CNC']",UNH,UnitedHealth Group,"Minnetonka, Minnesota",Managed Health Care,1994-07-01
+466,UHS,705952,"['THC', 'EHC', 'SGRY', 'PINC']",UHS,Universal Health Services,"King of Prussia, Pennsylvania",Health Care Facilities,2014-09-20
+467,VLO,3976680,"['PSX', 'MPC', 'IMO', 'IEP']",VLO,Valero Energy,"San Antonio, Texas",Oil & Gas Refining & Marketing,2002-12-20
+468,VTR,2175321,"['INVH', 'MAA', 'SUI']",VTR,Ventas,"Chicago, Illinois",Health Care REITs,2009-03-04
+469,VRSN,659616,"['EPAM', 'NICE', 'TRU']",VRSN,Verisign,"Dulles, Virginia",Internet Services & Infrastructure,2006-02-01
+470,VRSK,1027029,"['FIS', 'FDS']",VRSK,Verisk,"Jersey City, New Jersey",Research & Consulting Services,2015-10-08
+471,VZ,21912409,"['T', 'BCE', 'TLGPY', 'ORAN']",VZ,Verizon,"New York City, New York",Integrated Telecommunication Services,1983-11-30
+472,VRTX,1350085,"['GLAXF', 'ZTS', 'GSK']",VRTX,Vertex Pharmaceuticals,"Cambridge, Massachusetts",Biotechnology,2013-09-23
+473,VFC,8032000,"['COLM', 'PVH', 'JRSH']",VFC,VF Corporation,"Denver, Colorado","Apparel, Accessories & Luxury Goods",1979-06-30
+474,VTRS,9495307,"['CTLT', 'ESAIY']",VTRS,Viatris,"Pittsburgh, Pennsylvania",Pharmaceuticals,2004-04-23
+475,VICI,6221939,['CBRE'],VICI,Vici Properties,"New York City, New York",Hotel & Resort REITs,2022-06-08
+476,V,6387249,"['AXP', 'SYF', 'WU', 'SAND']",V,Visa Inc.,"San Francisco, California",Data Processing & Outsourced Services,2009-12-21
+477,VMC,719083,[],VMC,Vulcan Materials Company,"Birmingham, Alabama",Construction Materials,1999-06-30
+478,WAB,915980,"['TRN', 'GBX', 'RAIL', 'KIQ']",WAB,Wabtec,"Pittsburgh, Pennsylvania",Construction Machinery & Heavy Trucks,2019-02-27
+479,WBA,6378585,"['PETS', 'YI']",WBA,Walgreens Boots Alliance,"Deerfield, Illinois",Drug Retail,1979-12-31
+480,WMT,6439625,"['KR', 'TSCDF']",WMT,Walmart,"Bentonville, Arkansas",Hypermarkets & Super Centers,1982-08-31
+481,WBD,25727132,"['CHTR', 'SJR', 'LBRDK']",WBD,Warner Bros. Discovery,"New York City, New York",Broadcasting,2022-04-11
+482,WM,1726196,"['RSG', 'CLH', 'SRCL', 'CWST']",WM,Waste Management,"Houston, Texas",Environmental & Facilities Services,
+483,WAT,351385,"['PKI', 'BIO', 'QGEN', 'BRKR']",WAT,Waters Corporation,"Milford, Massachusetts",Health Care Distributors,2002-01-02
+484,WEC,1382394,"['ES', 'EIX', 'FE']",WEC,WEC Energy Group,"Milwaukee, Wisconsin",Electric Utilities,2008-10-31
+485,WFC,20184864,"['HSBC', 'RY', 'HDB']",WFC,Wells Fargo,"San Francisco, California",Diversified Banks,1976-06-30
+486,WELL,2679786,"['SPG', 'O', 'DLR', 'SBAC']",WELL,Welltower,"Toledo, Ohio",Health Care REITs,2009-01-30
+487,WST,655578,"['SAUHF', 'ZBH', 'BAX', 'PODD']",WST,West Pharmaceutical Services,"Exton, Pennsylvania",Health Care Supplies,2020-05-22
+488,WDC,4612178,"['STX', 'NTAP', 'PSTG', 'QMCO']",WDC,Western Digital,"San Jose, California","Technology Hardware, Storage & Peripherals",2009-07-01
+489,WRK,2119765,[],WRK,WestRock,"Atlanta, Georgia",Paper Packaging,1957-03-04
+490,WY,3868354,"['EQR', 'EXR', 'AVB', 'ARE']",WY,Weyerhaeuser,"Seattle, Washington",Specialized REITs,
+491,WHR,714470,[],WHR,Whirlpool Corporation,"Benton Harbor, Michigan",Household Appliances,
+492,WMB,6860081,"['KMI', 'ET', 'OKE', 'EPD']",WMB,Williams Companies,"Tulsa, Oklahoma",Oil & Gas Storage & Transportation,1975-03-31
+493,WTW,545921,"['BRO', 'ERIE', 'AJG']",WTW,Willis Towers Watson,"London, United Kingdom",Insurance Brokers,2016-01-05
+494,GWW,293530,['AIT'],GWW,W. W. Grainger,"Lake Forest, Illinois",Industrial Machinery,1981-06-30
+495,WYNN,2745420,"['H', 'IHG', 'CZR', 'HTHT']",WYNN,Wynn Resorts,"Paradise, Nevada",Casinos & Gaming,2008-11-14
+496,XEL,2838005,"['PCG', 'ED', 'EXC', 'PEG']",XEL,Xcel Energy,"Minneapolis, Minnesota",Multi-Utilities,1957-03-04
+497,XYL,1311679,"['IEX', 'GGG', 'ITT']",XYL,Xylem Inc.,"White Plains, New York",Industrial Machinery,2011-11-01
+498,YUM,1702476,"['CMG', 'YUMC', 'QSR', 'DRI']",YUM,Yum! Brands,"Louisville, Kentucky",Restaurants,1997-10-06
+499,ZBRA,416844,"['HPE', 'SMCI', 'TDC']",ZBRA,Zebra Technologies,"Lincolnshire, Illinois",Electronic Equipment & Instruments,2019-12-23
+500,ZBH,1389282,"['WST', 'SAUHF', 'BAX', 'PODD']",ZBH,Zimmer Biomet,"Warsaw, Indiana",Health Care Equipment,2001-08-07
+501,ZION,2217245,"['BSAC', 'BOKF']",ZION,Zions Bancorporation,"Salt Lake City, Utah",Regional Banks,2001-06-22
+502,ZTS,2277446,"['VRTX', 'REGN', 'GLAXF']",ZTS,Zoetis,"Parsippany, New Jersey",Pharmaceuticals,2013-06-21
